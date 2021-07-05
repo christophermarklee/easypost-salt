@@ -4,3 +4,4 @@ easypost-sys-pkgs:
     - pkgs:
       - python3-pip
       - python3-virtualenv
+      - golang
